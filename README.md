@@ -183,12 +183,25 @@ PORT=3000
 
 ### Landing Page
 > Clean landing page with call-to-action to get started
+<img width="1915" height="860" alt="image" src="https://github.com/user-attachments/assets/32a82903-11f4-44fc-a8e0-6e22c549d10f" />
+
 
 ### Login / Register
 > Split-screen auth page with background image
+> <img width="1919" height="862" alt="image" src="https://github.com/user-attachments/assets/4a5ff287-c5da-4b3b-a660-1e4039dc7bcf" />
+
+### Room Joining Lobby
+
+> <img width="1917" height="870" alt="image" src="https://github.com/user-attachments/assets/4489dfae-3590-42e1-9094-468cf330231a" />
+> <img width="1914" height="855" alt="image" src="https://github.com/user-attachments/assets/c5b3799e-eb1b-4b34-bf28-3a75da449bd9" />
+
 
 ### Video Call Room
 > Multi-user video grid with controls for camera, mic, screen share, and chat
+><img width="1918" height="966" alt="image" src="https://github.com/user-attachments/assets/a855bba2-6db8-47e4-a51d-9a9f4bd4c4d6" />
+
+
+
 
 ---
 
