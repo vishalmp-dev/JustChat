@@ -148,8 +148,8 @@
   }
 
   .chatRoom {
-    width: 95vw;
-    height: 75vh;
+    width: 100vw;
+    height: 50vh;
     top: auto;
     bottom: 9vh;
     right: 2.5vw;
